@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library_IoT_MP")(type "KiCad")(uri "${KIPRJMOD}/IoT_Kicad_MP_lib/Footprints/Library_IoT_MP.pretty")(options "")(descr ""))
+)

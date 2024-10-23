@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Library_IoT_MP")(type "KiCad")(uri "${KIPRJMOD}/IoT_Kicad_MP_lib/Symbols/Library_IoT_MP.kicad_sym")(options "")(descr ""))
+)

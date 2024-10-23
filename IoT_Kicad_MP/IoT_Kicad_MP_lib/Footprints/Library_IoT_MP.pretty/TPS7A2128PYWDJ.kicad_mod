@@ -1,0 +1,218 @@
+(footprint "TPS7A2128PYWDJ"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "TPS7A2128PYWDJ-3")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "8fb634f2-7976-4cd0-b07a-c7bd6289416f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TPS7A2128PYWDJ"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "682a4d84-16e2-4ffe-95f3-98addc3bdac3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "416f773a-7133-4eff-bb1b-4ae92f8746ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3026e61d-6e45-44b4-b569-282e8eb7b2d5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d559ab0-787a-4c80-91c3-ae2c316a81e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.8 -0.2)
+		(end -0.8 -0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3112390b-d7d7-4959-9105-7a0853a81095")
+	)
+	(fp_line
+		(start -0.7 -0.2)
+		(end -0.7 -0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cb74836d-07ad-49f2-bcc9-927aa9942100")
+	)
+	(fp_arc
+		(start -0.8 -0.2)
+		(mid -0.75 -0.25)
+		(end -0.7 -0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc0ca53b-ed6e-454b-8709-3020c9ca902b")
+	)
+	(fp_arc
+		(start -0.7 -0.2)
+		(mid -0.75 -0.15)
+		(end -0.8 -0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e9bdd3ae-b61b-4d28-9272-74713566d548")
+	)
+	(fp_line
+		(start -1.314 -1.314)
+		(end 1.314 -1.314)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "327c9314-1086-4dae-881a-c1e3678bfb34")
+	)
+	(fp_line
+		(start -1.314 1.314)
+		(end -1.314 -1.314)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7393f123-53ce-4451-9ac3-e77e505b8324")
+	)
+	(fp_line
+		(start -0.314 -0.314)
+		(end 0.314 -0.314)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "33b85c58-2e2a-46da-8e20-c41fbaa6f69c")
+	)
+	(fp_line
+		(start -0.314 0.314)
+		(end -0.314 -0.314)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e20659b5-ef01-4a5a-8796-178239209f06")
+	)
+	(fp_line
+		(start 0.314 -0.314)
+		(end 0.314 0.314)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "d6b9ff1d-5286-4087-94ce-f8537a735ccc")
+	)
+	(fp_line
+		(start 0.314 0.314)
+		(end -0.314 0.314)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e389df0c-3e1f-4499-b302-ba78b64be917")
+	)
+	(fp_line
+		(start 1.314 -1.314)
+		(end 1.314 1.314)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "5ee9561c-f191-4c67-a6aa-91ac554ee29d")
+	)
+	(fp_line
+		(start 1.314 1.314)
+		(end -1.314 1.314)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "2eeebb89-618d-44fc-9513-5f1cbd08a322")
+	)
+	(pad "A1" smd rect
+		(at -0.175 -0.175 90)
+		(size 0.165 0.165)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b8999eba-21f8-4d9b-b1f5-4160e9fca69e")
+	)
+	(pad "A2" smd rect
+		(at 0.175 -0.175 90)
+		(size 0.165 0.165)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "57e659e0-6ad0-4b8a-95e0-fe8bf4489bd1")
+	)
+	(pad "B1" smd rect
+		(at -0.175 0.175 90)
+		(size 0.165 0.165)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "6fa1ae41-c1a0-4a9a-9e79-af19e26d4061")
+	)
+	(pad "B2" smd rect
+		(at 0.175 0.175 90)
+		(size 0.165 0.165)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "7cddec7e-70e6-47be-af1f-5ddf7c66636e")
+	)
+)
